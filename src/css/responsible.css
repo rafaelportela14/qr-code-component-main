@@ -1,0 +1,28 @@
+@media(max-width:1140px){
+    .container {
+        width: 40%;
+        height: 65%;
+    }
+
+    .container .container-img img{
+        height: 350px;
+        width: 350px;
+    }
+}
+
+
+
+@media(max-width:900px){
+    .container {
+        width: 40%;
+        height: 65%;
+    }
+
+    .container .container-img img{
+        height: 300px;
+        width: 300px;
+    }
+}
+
+
+
